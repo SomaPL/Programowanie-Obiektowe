@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhFKMLE0Pl6mkLy6IOUhjoRkdsCHR/zVkaFuhOU+IDiK/AF/uTgMTNTiQu0lmflN8ECUgz4crLCzNatVHXqcTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kubak\\source\\repos\\Lab_2\\Lab_2\\Lab_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kubak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
