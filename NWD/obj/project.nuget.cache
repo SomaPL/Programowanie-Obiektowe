@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJnY0rL2EFTT5WBiV6FvR5LkLo/Pk5uzJpTLley1B3u9vsRfqfyqq+vpo0vNqhb/nO71Plrfh0Di07TkPTYnkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kubak\\source\\repos\\SPOJ-C-SHARP\\NWD\\NWD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kubak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
